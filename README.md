@@ -1,5 +1,5 @@
 Database is stored online, on remotemysql.com.
-These is info for login and setting up database (it's already set up, so you just need to login).
+This is info for login and setting up database (it's already set up, so you just need to login).
 Username: fz5RA2ycAp
 Password: Jkp9Tevz9Q
 Database Name: fz5RA2ycAp
