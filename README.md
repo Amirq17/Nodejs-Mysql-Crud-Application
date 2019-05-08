@@ -1,5 +1,5 @@
 <html>
-
+<img src="https://radikal.ru][img]https://d.radikal.ru/d08/1905/e9/4ce252cb3548.png">
 
 Database is stored online, on remotemysql.com.
 This is info for login and setting up database (it's already set up, so you just need to login).
