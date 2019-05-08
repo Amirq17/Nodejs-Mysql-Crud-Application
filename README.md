@@ -1,5 +1,5 @@
+<html>
 
-<img src="">
 
 Database is stored online, on remotemysql.com.
 This is info for login and setting up database (it's already set up, so you just need to login).
@@ -10,7 +10,7 @@ Server: remotemysql.com
 Port: 3306
 
 
-Installation Process:
+<h2>Installation Process:</h2>
 1) Download files
 2) Open project in IDE 
 3) run command "npm install" or just "npm i" to download all the node_modules listed in depencendies in package.json file
@@ -25,3 +25,4 @@ Troubleshooting
 
 
 
+<html>
